@@ -5,3 +5,19 @@
 body{
     background-color:darkslateblue;
 }
+
+#title{
+    font-family: Helvetica, sans-serif;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: white;
+    text-align: center;
+}
+
+form{
+    margin-top:50px;
+}
+input{
+    margin-top:12px;
+    font-size:18px;
+}

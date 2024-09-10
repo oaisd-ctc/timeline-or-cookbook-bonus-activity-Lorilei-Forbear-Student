@@ -8,9 +8,10 @@ body{
 
 #title{
     font-family: Helvetica, sans-serif;
-    text-decoration: underline;
+    text-decoration:underline;
+    color: white;
     text-decoration-style: wavy;
-    text-decoration-color: white;
+    text-decoration-color: darkslateblue;
     text-align: center;
 }
 
@@ -20,4 +21,11 @@ form{
 input{
     margin-top:12px;
     font-size:18px;
+}
+#desc{
+    text-align:center;
+}
+span{
+    background-color:slateblue;
+    border-radius:12px;
 }
